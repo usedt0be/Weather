@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="location_rationale_title">Permission request</string>
+    <string name="location_rationale_description">We need location permission to show relevant data</string>
+    <string name="location_rationale_button_grant">Grant permission</string>
+    <string name="location_rationale_button_deny">Deny permission</string>
+</resources>
